@@ -1,0 +1,3 @@
+En el edesarrollo de esta aplicación en angular pude encontrar desafios como un error que me mostraba la consola al hacer uso de la instrucción del input con ngModel, 
+lo cual solucioné haciendo una importación de FormsModule en el archivo app.module.ts
+Otro desafío fué la creación del arreglo en angular el cual pude ver como se lograba en la documentación de este framework.
